@@ -1,0 +1,5 @@
+name: "flarum-poster"
+title: "Flarum 论坛发帖"
+description: "在 Flarum 论坛发布主题帖：识别板块结构、浏览器或 REST API 发帖（自动化首选），并遵守内容与图片规范。"
+category: "Work and knowledge"
+include_in_prompt: false
